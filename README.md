@@ -10,10 +10,10 @@ This project aims to build a model to predict the Federal Funds Effective Rate.
 
 ## Content
 
-1.- Code: (Fixed Income Final Project) 8 machine learning models including a regularization technique (Lasso regression).
+1.- Code: (Fixed_Income_Final_Project) 8 machine learning models including a regularization technique (Lasso regression).
 
-2.- Data
+2.- Data: (NFCIINDX Index_monthly)
 
-3.- Report
+3.- Report: (MF728 Final Report)
 
-4.- Presentation
+4.- Presentation: (Fixed Income)
