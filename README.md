@@ -1,4 +1,4 @@
-# Fixed Income - Machine Learning
+# Predicting the Federal Fund Effective Rates: A Machine Learning Approach
 Predicting the Federal Fund Effective Rates: A Machine Learning Approach
 ## Description
 
